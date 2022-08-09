@@ -24,5 +24,10 @@
      <img align="center" alt="Vivian-google" height="30"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
           
+  </div>
   
-  <img align="right" alt="Vivian-pic" height="150" style="border-radius:50px;"src="https://picrew.me/share?cd=ppgUP5k2Jc">
+##
+
+  <a href="https://instagram.com/vivian_03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lvivian156@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
