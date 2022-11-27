@@ -1,6 +1,5 @@
 ### Olá, eu sou a Vivian 
 
-- 🌱 Estou cursando Eletroeletrônica 
 -  💹 Futura Economista
 - 📫 Contate-me pelo e-mail: lvivian156@gmail.com
 - 😄 Pronomes: Ela/Dela
